@@ -343,8 +343,8 @@ p {
     z-index: 999;
 }
 .navbar-brand p{
-    font-size: 32px;
-    font-weight: 800;
+    font-size: 25px;
+    font-weight: 600;
     text-transform: uppercase;
 	margin: 0px 10px 10px 0px;
     letter-spacing: 1px;
